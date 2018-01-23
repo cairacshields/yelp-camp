@@ -13,6 +13,6 @@
 .form-delete-button{
 	display:inline;
 }
-div.row{
-	text-align: center;
+.theGroup{
+	width: 50px;
 }
