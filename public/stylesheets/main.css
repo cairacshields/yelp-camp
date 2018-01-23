@@ -13,3 +13,6 @@
 .form-delete-button{
 	display:inline;
 }
+#loginForm{
+	text-align: center;
+}
